@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="Pong.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="OpenCVPong.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CGLatas02.cpp">
+    <ClCompile Include="Pong.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
