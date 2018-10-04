@@ -29,8 +29,7 @@ int Shape::getY()
 	return this->y;
 }
 
-Ball::Ball(int x, int y, int size, bool fill, bool circle) :
-Shape(x, y), size(size), fill(fill), circle(circle)
+Ball::Ball(int x, int y, int size, bool fill, bool circle) : Shape(x, y), size(size), fill(fill), circle(circle)
 {
 
 }
